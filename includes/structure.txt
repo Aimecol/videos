@@ -1,0 +1,25 @@
+c:/xampp/htdocs/videos/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│   └── videos/
+├── includes/
+│   ├── config.php
+│   ├── db.php
+│   ├── auth.php
+│   ├── functions.php
+│   └── header.php
+├── api/
+│   ├── update_watch_status.php
+│   ├── get_videos.php
+│   └── user_data.php
+├── auth/
+│   ├── login.php
+│   ├── register.php
+│   ├── logout.php
+│   └── reset_password.php
+├── dashboard.php
+├── index.php
+├── video.php
+└── profile.php
