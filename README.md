@@ -6,27 +6,27 @@ VideoStream is a modern web-based video learning platform that allows users to w
 
 ### Homepage
 
-![VideoStream Homepage](screenshots/home.png)
+![VideoStream Homepage](home.png)
 Modern landing page with featured videos and category browsing
 
 ### Video Player
 
-![Video Player](screenshots/video.png)
+![Video Player](video.png)
 Feature-rich video player with progress tracking
 
 ### User Dashboard
 
-![User Dashboard](screenshots/dashboard.png)
+![User Dashboard](dashboard.png)
 Personal dashboard showing watch history and progress
 
 ### User Profile
 
-![User Profile](screenshots/profile.png)
+![User Profile](profile.png)
 Detailed user profile with earnings and completed videos
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin.png)
+![Admin Dashboard](admin.png)
 Comprehensive admin interface for content management
 
 ## Features
